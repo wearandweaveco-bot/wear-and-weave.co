@@ -1,12 +1,7 @@
-# Wear & Weave
+# Wear and Weave — Homepage Template
 
-GitHub + Cloudflare Pages ready static website.
+Upload the contents of this folder to your GitHub website repository.
 
-## Deploy
-Upload the contents of this folder to the root of a GitHub repository, then connect that repository to Cloudflare Pages.
+The homepage is `index.html` and the supplied images are in `assets/`.
 
-No build command is required. The site entry point is `index.html`.
-
-## Notes
-- Product/order/editor data in the current site is stored in browser localStorage.
-- Do not upload secrets or API keys.
+This is a front-end template: navigation buttons scroll to the relevant sections. Connect your existing product/cart/admin system to the links when you're ready.
